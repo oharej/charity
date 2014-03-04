@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('courantApp', [
+angular.module('charityApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
